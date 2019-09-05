@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntroLesson</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!--
+    values/strings.xml
+    values-ru/strings.xml
+        <string name="title_home">Главная</string>
+    -->
+</resources>

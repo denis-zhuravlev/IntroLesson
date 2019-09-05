@@ -3,7 +3,6 @@ package com.otus.introlesson;
 import android.os.Bundle;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.otus.mylibrary.DateHelper;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.annotation.NonNull;
